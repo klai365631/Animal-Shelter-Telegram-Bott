@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @Configuration
 @EnableScheduling
-public class AnimalShelterBotConfig {
+public class  AnimalShelterBotConfig {
     @Bean
     public TelegramBot telegramBot(@Value("${bot.token}") String token) {
         return new TelegramBot(token);
