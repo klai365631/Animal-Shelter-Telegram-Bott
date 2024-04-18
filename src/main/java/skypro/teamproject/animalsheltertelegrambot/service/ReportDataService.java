@@ -1,7 +1,6 @@
 package skypro.teamproject.animalsheltertelegrambot.service;
 
 import skypro.teamproject.animalsheltertelegrambot.exceptions.ReportDataNotFoundException;
-import skypro.teamproject.animalsheltertelegrambot.model.ReportData;
 import skypro.teamproject.animalsheltertelegrambot.repository.ReportDataRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

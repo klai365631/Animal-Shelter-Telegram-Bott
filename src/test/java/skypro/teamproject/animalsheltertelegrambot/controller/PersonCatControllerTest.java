@@ -1,6 +1,5 @@
 package skypro.teamproject.animalsheltertelegrambot.controller;
 
-import skypro.teamproject.animalsheltertelegrambot.model.PersonCat;
 import skypro.teamproject.animalsheltertelegrambot.service.PersonCatService;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;

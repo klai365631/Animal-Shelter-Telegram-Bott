@@ -7,7 +7,6 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
-import skypro.teamproject.animalsheltertelegrambot.model.Cat;
 import skypro.teamproject.animalsheltertelegrambot.service.CatService;
 
 import java.util.Collection;

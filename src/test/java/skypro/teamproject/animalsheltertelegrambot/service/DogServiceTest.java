@@ -1,7 +1,6 @@
 package skypro.teamproject.animalsheltertelegrambot.service;
 
 import skypro.teamproject.animalsheltertelegrambot.exceptions.DogNotFoundException;
-import skypro.teamproject.animalsheltertelegrambot.model.Dog;
 import skypro.teamproject.animalsheltertelegrambot.repository.DogRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

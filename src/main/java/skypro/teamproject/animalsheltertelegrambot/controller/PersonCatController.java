@@ -2,7 +2,6 @@ package skypro.teamproject.animalsheltertelegrambot.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.web.bind.annotation.*;
-import skypro.teamproject.animalsheltertelegrambot.model.PersonCat;
 import skypro.teamproject.animalsheltertelegrambot.service.PersonCatService;
 
 import java.util.Collection;

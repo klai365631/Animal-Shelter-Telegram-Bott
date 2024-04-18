@@ -1,7 +1,6 @@
 package skypro.teamproject.animalsheltertelegrambot.service;
 
 import skypro.teamproject.animalsheltertelegrambot.exceptions.PersonCatNotFoundException;
-import skypro.teamproject.animalsheltertelegrambot.model.PersonCat;
 import skypro.teamproject.animalsheltertelegrambot.repository.PersonCatRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

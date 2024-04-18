@@ -12,7 +12,6 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import skypro.teamproject.animalsheltertelegrambot.listener.BotUpdatesListener;
-import skypro.teamproject.animalsheltertelegrambot.model.ReportData;
 import skypro.teamproject.animalsheltertelegrambot.service.ReportDataService;
 
 import java.util.Collection;

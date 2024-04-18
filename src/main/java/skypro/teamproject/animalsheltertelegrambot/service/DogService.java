@@ -1,6 +1,5 @@
 package skypro.teamproject.animalsheltertelegrambot.service;
 
-import skypro.teamproject.animalsheltertelegrambot.model.Dog;
 import skypro.teamproject.animalsheltertelegrambot.repository.DogRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
